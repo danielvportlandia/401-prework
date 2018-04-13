@@ -1,0 +1,26 @@
+{
+  "name": "401-prework",
+  "version": "1.0.0",
+  "description": "prework for the 401 full-stack JavaScript course",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "fs": "0.0.1-security",
+    "querystring": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielvportlandia/401-prework.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielvportlandia/401-prework/issues"
+  },
+  "homepage": "https://github.com/danielvportlandia/401-prework#readme"
+}
